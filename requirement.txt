@@ -3,3 +3,4 @@ langchain
 langchain-google-genai
 pandas
 python-dotenv
+google-genai
